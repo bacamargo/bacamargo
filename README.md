@@ -1,24 +1,14 @@
 Olá! Eu sou a Bárbara, mas pode me chamar de Ba 🖖🏻👽
 
-<!--
-**bacamargo/bacamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧬 sou biomédica habilitada em Biologia Molecular
+- 💻 atualmente sou acadêmica de Engenharia da Computação na UFPB
+- 📚 procurando sempre aprender coisas novas
+- 🦝 ela/dela
 
 <div align="center">
   <a href="https://github.com/bacamargo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bacamargo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacamargo&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bacamargo&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacamargo&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
