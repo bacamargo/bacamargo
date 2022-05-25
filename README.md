@@ -5,7 +5,7 @@ Hello! I'm Barbara, but you can call me Ba 🖖🏻👽
 - 📚 always trying to learn new things
 - 🦝 she/her
 
-<div align="center">
+<div>
   <a href="https://github.com/bacamargo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bacamargo&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacamargo&layout=compact&langs_count=7&theme=radical"/>
@@ -18,7 +18,6 @@ Hello! I'm Barbara, but you can call me Ba 🖖🏻👽
   <img align="center" alt="Ba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ba-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ba-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Ba-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/967989177847259139/967989321317629982/ReadyPlayerMe-Avatar.png?width=676&height=676">
 </div>
   
  ##
