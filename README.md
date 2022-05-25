@@ -1,16 +1,12 @@
-Hello! I'm Barbara, but you can call me Ba 🖖🏻👽
+# Hello! I'm Barbara, but you can call me Ba 🖖🏻👽
 
+## Learn a little about me:
 - 🧬 I'm a graduated biomedical - molecular biology
-- 💻 currently studying Computer Engineering at UFPB
-- 📚 always trying to learn new things
-- 🦝 she/her
+- 💻 I'm currently studying Computer Engineering at UFPB
+- 📚 Always trying to learn new things
+- 🦝 She/her
 
-<div>
-  <a href="https://github.com/bacamargo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bacamargo&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacamargo&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
+## Coding languages:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ba-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ba-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,8 +15,15 @@ Hello! I'm Barbara, but you can call me Ba 🖖🏻👽
   <img align="center" alt="Ba-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ba-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
+
+## Stats:
+<div>
+  <a href="https://github.com/bacamargo">
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=bacamargo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacamargo&layout=compact&langs_count=16&theme=radical"/>
+</div>
   
- ##
+## You Can find me here:
   
 <div>
  <a href="https://discord.gg/Qa2rZfVB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
