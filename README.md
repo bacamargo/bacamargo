@@ -1,8 +1,9 @@
 # Hello! I'm Barbara, but you can call me Ba 🖖🏻👽
 
-## Learn a little about me:
-- 🧬 I'm a graduated biomedical - molecular biology
-- 💻 I'm currently studying Computer Science at UFPB
+## I'm a natural polymath, such as da Vinci. Learn a little about me:
+- 🧬 I'm a graduated biomedical with molecular biology specialization
+- 💻 I used to study computer science
+- 📊 Now I'm a financial markets professional
 - 📚 Always trying to learn new things
 - 🦝 She/her
 
